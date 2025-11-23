@@ -1,0 +1,6 @@
+/ {
+    keymap {
+        compatible = "zmk,keymap";
+        bindings = <&analog_steering_wheel>;
+    };
+};
